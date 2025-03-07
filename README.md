@@ -36,7 +36,7 @@ This was made with references and exemplar to the popular Pysilion-malware
 - Navigate to the OAuth2 settings
 - `https://discord.com/developers/applications/BOTID/oauth2`
 - Navigate to the `OAuth2 URL Generator` and check the `Bot` setting
-- And the `Administrator` setting, and use your `Generated url`
+- And the `Administrator` setting, and use your `Generated Url`
 - Now create a server and invite the bot to it.
 
 ## much love :)
