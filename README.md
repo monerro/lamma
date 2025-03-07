@@ -25,8 +25,18 @@ Recommended to host on platforms like `heroku.com`, `replit.com` or `pythonanywh
 This was made with references and exemplar to the popular Pysilion-malware
 `https://github.com/mategol/PySilon-malware` 
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/discord-bot.git
-   cd discord-bot
+# Setup - Discord bot
+Create discord bot using the discord dev portal 
+`https://discord.com/developers/applications`
+create an application
+Navigate to the Bot settings
+`https://discord.com/developers/applications/BOTID/bot`
+reset your token
+make sure you check `presence intent`, `server members intent`. `message content intent` and also check the `Administrator` box
+Navigate to the OAuth2 settings
+`https://discord.com/developers/applications/BOTID/oauth2`
+Navigate to the `OAuth2 URL Generator` and check the `Bot` setting
+And the `Administrator` setting, and use your `Generated url`
+Now create a server and invite the bot to it.
+
+## much love :)
