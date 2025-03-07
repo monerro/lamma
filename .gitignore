@@ -1,0 +1,16 @@
+# Ignore sensitive files
+config.json
+recorded_audio.wav
+webcam_photo.jpg
+screenshot.png
+Loginvault.db
+ChromeData.db
+
+# Ignore Python cache and virtual environment
+__pycache__/
+venv/
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
