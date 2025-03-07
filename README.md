@@ -1,6 +1,8 @@
 # lamma
 
-A powerful Discord rat with advanced features like screenshot capture, webcam access, and more.
+A opensource discord rat made by `@yeaiusearchlinux`, made with the intention of making a structure for new malware. 
+
+show some love `guns.lol/x5u`
 
 ## Features
 - Take screenshots (`.ss`)
