@@ -1,8 +1,8 @@
 # lamma
 
-A opensource discord rat made by `@yeaiusearchlinux`, made with the intention of making a structure for new malware. 
+A opensource discord rat made by `@ekwg`, made with the intention of making a structure for new malware. 
 
-show some love `guns.lol/x5u`
+show some love `guns.lol/signature`
 
 ## Features
 - Take screenshots (`.ss`)
